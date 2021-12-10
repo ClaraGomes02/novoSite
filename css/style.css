@@ -1,0 +1,66 @@
+/*********************************** TAGS ***********************************/
+body {
+  text-align: center;
+  background-color: #152D35;
+  margin: 0;
+}
+
+/*********************************** CLASSES ***********************************/
+.top-container {
+  margin: 0;
+  background-color: #152D35;
+  position: relative;
+  width: 1326px;
+  height: 550px;
+}
+
+.título {
+  margin: 0;
+  color: #e39a36;
+  font-family: 'Major Mono Display', monospace;
+  font-size: 3em;
+  position: relative;
+  top: 230px;
+}
+
+.subtítulo {
+  margin: 0;
+  color: #ECB365;
+  font-family: 'Roboto', sans-serif;
+  font-size: 1.3em;
+  position: relative;
+  top: 243px;
+}
+
+.imagem1 {
+  width: 160px;
+  height: 250px;
+  position: absolute;
+  left: 200px;
+  bottom: 50px;
+}
+
+.imagem2 {
+  width: 240px;
+  height: 240px;
+  position: absolute;
+  right: 100px;
+  top: 150px;
+}
+
+.bottom-container {
+  margin: 0;
+  background-color: #345B63;
+  position: relative;
+  width: 1326px;
+  height: 77px;
+}
+
+.rodapé {
+  margin: 0;
+  color: #D4ECDD;
+  font-family: 'Roboto', sans-serif;
+  font-size: 0.7em;
+  position: relative;
+  top: 35px;
+}
